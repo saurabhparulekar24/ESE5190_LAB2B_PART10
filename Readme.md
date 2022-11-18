@@ -26,4 +26,5 @@ Using the PIO sequencer we interfaced the board with our protoboard using the St
 
 https://user-images.githubusercontent.com/57740824/202590917-f27e2335-ada0-4679-92b8-cb75daf38c63.mp4
 
+![proto board](https://user-images.githubusercontent.com/57740824/202591352-ecdc8d71-4716-43bd-b941-7339bcab5165.png)
 
